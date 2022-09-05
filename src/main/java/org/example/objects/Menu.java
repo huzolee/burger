@@ -1,4 +1,4 @@
-package org.example.object;
+package org.example.objects;
 
 import java.util.Arrays;
 import java.util.LinkedList;

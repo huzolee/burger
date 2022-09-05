@@ -1,7 +1,7 @@
-package org.example.inetrface;
+package org.example.interfaces;
 
-import org.example.object.Cook;
-import org.example.object.Order;
+import org.example.objects.Cook;
+import org.example.objects.Order;
 
 public interface IKitchen {
     void applyCook(Cook cook);

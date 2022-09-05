@@ -1,4 +1,4 @@
-package org.example.enumeration;
+package org.example.enumerations;
 
 import lombok.Getter;
 import org.example.BurgerApp;

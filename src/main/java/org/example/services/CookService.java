@@ -1,12 +1,12 @@
-package org.example.service;
+package org.example.services;
 
 import lombok.Getter;
 import org.example.BurgerApp;
 import org.example.ConsoleColor;
-import org.example.enumeration.CookExperience;
-import org.example.object.Burger;
-import org.example.object.Cook;
-import org.example.thread.CookThread;
+import org.example.enumerations.CookExperience;
+import org.example.objects.Burger;
+import org.example.objects.Cook;
+import org.example.threads.CookThread;
 
 import java.util.concurrent.ScheduledFuture;
 import java.util.concurrent.TimeUnit;

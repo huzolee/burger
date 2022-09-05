@@ -1,10 +1,10 @@
-package org.example.thread;
+package org.example.threads;
 
 import org.example.ConsoleColor;
-import org.example.object.Burger;
-import org.example.object.Cook;
-import org.example.object.Order;
-import org.example.service.KitchenService;
+import org.example.objects.Burger;
+import org.example.objects.Cook;
+import org.example.objects.Order;
+import org.example.services.KitchenService;
 
 import java.util.Comparator;
 import java.util.LinkedList;

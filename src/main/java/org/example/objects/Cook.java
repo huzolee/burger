@@ -1,11 +1,10 @@
-package org.example.object;
+package org.example.objects;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.example.ConsoleColor;
-import org.example.enumeration.CookExperience;
-import org.example.inetrface.ICook;
-import org.example.service.CookService;
+import org.example.enumerations.CookExperience;
+import org.example.interfaces.ICook;
+import org.example.services.CookService;
 
 @Getter()
 public class Cook implements ICook {

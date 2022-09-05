@@ -1,8 +1,8 @@
-package org.example.thread;
+package org.example.threads;
 
 import org.example.ConsoleColor;
-import org.example.object.Burger;
-import org.example.object.Cook;
+import org.example.objects.Burger;
+import org.example.objects.Cook;
 
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;

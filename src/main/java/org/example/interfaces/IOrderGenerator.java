@@ -1,9 +1,9 @@
-package org.example.inetrface;
+package org.example.interfaces;
 
 import org.example.BurgerApp;
-import org.example.object.Burger;
-import org.example.object.Menu;
-import org.example.object.Order;
+import org.example.objects.Burger;
+import org.example.objects.Menu;
+import org.example.objects.Order;
 
 import java.util.LinkedList;
 

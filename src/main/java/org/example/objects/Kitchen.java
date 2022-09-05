@@ -1,8 +1,8 @@
-package org.example.object;
+package org.example.objects;
 
 import lombok.Getter;
-import org.example.inetrface.IKitchen;
-import org.example.service.KitchenService;
+import org.example.interfaces.IKitchen;
+import org.example.services.KitchenService;
 
 @Getter
 public class Kitchen implements IKitchen {

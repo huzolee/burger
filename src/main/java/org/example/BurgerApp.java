@@ -1,9 +1,9 @@
 package org.example;
 
-import org.example.enumeration.CookExperience;
-import org.example.object.Cook;
-import org.example.object.Kitchen;
-import org.example.thread.OrderGeneratorThread;
+import org.example.enumerations.CookExperience;
+import org.example.objects.Cook;
+import org.example.objects.Kitchen;
+import org.example.threads.OrderGeneratorThread;
 
 import java.util.Arrays;
 import java.util.LinkedList;

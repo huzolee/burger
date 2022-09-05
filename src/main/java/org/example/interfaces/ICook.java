@@ -1,7 +1,7 @@
-package org.example.inetrface;
+package org.example.interfaces;
 
-import org.example.object.Burger;
-import org.example.object.Cook;
+import org.example.objects.Burger;
+import org.example.objects.Cook;
 
 public interface ICook {
     void handleExperience(int experience);

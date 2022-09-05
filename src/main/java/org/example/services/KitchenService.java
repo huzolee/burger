@@ -1,10 +1,10 @@
-package org.example.service;
+package org.example.services;
 
 import lombok.Getter;
 import org.example.BurgerApp;
-import org.example.object.Cook;
-import org.example.object.Order;
-import org.example.thread.KitchenThread;
+import org.example.objects.Cook;
+import org.example.objects.Order;
+import org.example.threads.KitchenThread;
 
 import java.util.ArrayList;
 import java.util.List;

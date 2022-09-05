@@ -1,8 +1,8 @@
-package org.example.thread;
+package org.example.threads;
 
 import org.example.BurgerApp;
-import org.example.inetrface.IOrderGenerator;
-import org.example.object.Kitchen;
+import org.example.interfaces.IOrderGenerator;
+import org.example.objects.Kitchen;
 
 import java.util.concurrent.TimeUnit;
 
