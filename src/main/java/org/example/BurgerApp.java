@@ -35,6 +35,8 @@ public class BurgerApp {
         });
 
         new OrderGeneratorThread(kitchen);
+
+        Runtime.getRuntime().addShutdownHook(new Thread(EXECUTOR::shutdown));
     }
 
     private static Cook generateCook() {
